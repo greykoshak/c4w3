@@ -34,3 +34,23 @@ Introduction, Regression Analysis and Gradient Descent.
 ---------------------------------------------
 http://www.holehouse.org/mlclass/06_Logistic_Regression.html
 
+Про регуляризацию в регрессионных моделях вы можете прочитать в учебнике
+------------------------------------------------------------------------
+
+К. В. Воронцова “Математические методы обучения по прецедентам (теория обучения машин)”
+Voron-ML-1.pdf
+Глава 5. Методы востановления регрессии, §5.3.3 Гребневая регрессия, стр. 86.
+Глава 5. Методы востановления регрессии, §5.3.4 Лассо Тибширани, стр. 88.
+
+Так же мы рекомендуем заметки по курсу машинного обучения в Стенфорде от профессора Andrew Ng
+по регуляризации и статью про bias-variance trade off.
+
+http://www.holehouse.org/mlclass/07_Regularization.html
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+Метрики качества в scikit-learn представлены модулем sklearn.metrics.
+Список метрик доступен по следующей ссылке. Про выбор и оценку качества моделей машинного
+обучения в scikit-learn мы можете прочитать здесь.
+
+https://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics
+https://scikit-learn.org/stable/model_selection.html
