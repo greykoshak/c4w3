@@ -54,3 +54,8 @@ http://scott.fortmann-roe.com/docs/BiasVariance.html
 
 https://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics
 https://scikit-learn.org/stable/model_selection.html
+
+Description sklearn !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-------------------
+
+https://mlbootcamp.ru/article/tutorial/
