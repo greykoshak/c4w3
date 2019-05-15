@@ -36,7 +36,6 @@ http://www.holehouse.org/mlclass/06_Logistic_Regression.html
 
 Про регуляризацию в регрессионных моделях вы можете прочитать в учебнике
 ------------------------------------------------------------------------
-
 К. В. Воронцова “Математические методы обучения по прецедентам (теория обучения машин)”
 Voron-ML-1.pdf
 Глава 5. Методы востановления регрессии, §5.3.3 Гребневая регрессия, стр. 86.
@@ -57,5 +56,41 @@ https://scikit-learn.org/stable/model_selection.html
 
 Description sklearn !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -------------------
-
 https://mlbootcamp.ru/article/tutorial/
+
+Ensemble methods
+----------------
+https://scikit-learn.org/stable/modules/ensemble.html
+
+Для дальшейнего изучения мы рекомендуем статью о случайном 
+лесе и о параметрах этой модели в scikit-learn. Композиции 
+алгоритмов представлены в scikit-learn модулем 
+sklearn.ensemble, мы приводим список моделей, в который 
+входит градиентный бустинг и случайный лес.
+
+АНАЛИЗ МАЛЫХ ДАННЫХ (случайный лес): 
+https://dyakonov.org/2016/11/14/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D1%81-random-forest/
+
+Ensemble Methods
+----------------
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble
+
+Machine Learning Mastery. Блог Джейсона Браунли
+-----------------------------------------------
+https://machinelearningmastery.com/blog/
+
+Блог о машинном обучении на сайте Reddit
+----------------------------------------
+https://www.reddit.com/r/MachineLearning/
+
+Соревнование по построению регрессионных моделей
+------------------------------------------------
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+Соревневание по решению задачи классификации
+--------------------------------------------
+https://www.kaggle.com/c/titanic
+
+UCI Machine Learning Repository
+-------------------------------
+https://archive.ics.uci.edu/ml/datasets.html
